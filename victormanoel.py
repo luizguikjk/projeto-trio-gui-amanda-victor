@@ -1,1 +1,1 @@
-print("The old Victor is dead!")
+print("The old Victor cant talk right now, he is dead!")
